@@ -1,2 +1,3 @@
 # Project exclude paths
-/src/hello.js
+/src/*.js
+.idea
