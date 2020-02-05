@@ -1,0 +1,25 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript",
+  "main": "src/hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miaomiaoG/typeScriptBegaining.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "gmm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miaomiaoG/typeScriptBegaining/issues"
+  },
+  "homepage": "https://github.com/miaomiaoG/typeScriptBegaining#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.3.31"
+  }
+}
